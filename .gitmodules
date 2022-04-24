@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "aweek"]
+	path = aweek
+	url = https://github.com/reconhub/aweek
+	shallow = true
+	registered = true
+[submodule "distcrete"]
+	path = distcrete
+	url = https://github.com/reconhub/distcrete
+	shallow = true
+	registered = true
+[submodule "earlyR"]
+	path = earlyR
+	url = https://github.com/reconhub/earlyr
+	shallow = true
+	registered = true
+[submodule "epicontacts"]
+	path = epicontacts
+	url = https://github.com/reconhub/epicontacts
+	shallow = true
+	registered = true
+[submodule "epiflows"]
+	path = epiflows
+	url = https://github.com/reconhub/epiflows
+	shallow = true
+	registered = true
+[submodule "epitrix"]
+	path = epitrix
+	url = https://github.com/reconhub/epitrix
+	shallow = true
+	registered = true
+[submodule "incidence"]
+	path = incidence
+	url = https://github.com/reconhub/incidence
+	shallow = true
+	registered = true
+[submodule "matchmaker"]
+	path = matchmaker
+	url = https://github.com/reconhub/matchmaker
+	shallow = true
+	registered = true
+[submodule "projections"]
+	path = projections
+	url = https://github.com/reconhub/projections
+	shallow = true
+	registered = true
