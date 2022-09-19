@@ -8,16 +8,6 @@
 	url = https://github.com/reconhub/aweek
 	shallow = true
 	registered = true
-[submodule "distcrete"]
-	path = distcrete
-	url = https://github.com/reconhub/distcrete
-	shallow = true
-	registered = true
-[submodule "earlyR"]
-	path = earlyR
-	url = https://github.com/reconhub/earlyr
-	shallow = true
-	registered = true
 [submodule "epicontacts"]
 	path = epicontacts
 	url = https://github.com/reconhub/epicontacts
@@ -36,11 +26,6 @@
 [submodule "incidence"]
 	path = incidence
 	url = https://github.com/reconhub/incidence
-	shallow = true
-	registered = true
-[submodule "matchmaker"]
-	path = matchmaker
-	url = https://github.com/reconhub/matchmaker
 	shallow = true
 	registered = true
 [submodule "projections"]

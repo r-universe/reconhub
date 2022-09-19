@@ -4,14 +4,6 @@
     "oncran": true
   },
   {
-    "package": "distcrete",
-    "oncran": true
-  },
-  {
-    "package": "earlyR",
-    "oncran": true
-  },
-  {
     "package": "epicontacts",
     "oncran": true
   },
@@ -25,10 +17,6 @@
   },
   {
     "package": "incidence",
-    "oncran": true
-  },
-  {
-    "package": "matchmaker",
     "oncran": true
   },
   {
