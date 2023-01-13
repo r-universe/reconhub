@@ -48,8 +48,3 @@
 	url = https://github.com/reconhub/projections
 	shallow = true
 	registered = true
-[submodule "linelist"]
-	path = linelist
-	url = https://github.com/reconhub/linelist
-	shallow = true
-	registered = false
