@@ -1,14 +1,6 @@
 [
   {
-    "package": "incidence",
-    "oncran": true
-  },
-  {
-    "package": "epiflows",
-    "oncran": true
-  },
-  {
-    "package": "epicontacts",
+    "package": "aweek",
     "oncran": true
   },
   {
@@ -16,23 +8,31 @@
     "oncran": true
   },
   {
-    "package": "epitrix",
-    "oncran": true
-  },
-  {
     "package": "earlyR",
     "oncran": true
   },
   {
-    "package": "projections",
+    "package": "epicontacts",
     "oncran": true
   },
   {
-    "package": "aweek",
+    "package": "epiflows",
+    "oncran": true
+  },
+  {
+    "package": "epitrix",
+    "oncran": true
+  },
+  {
+    "package": "incidence",
     "oncran": true
   },
   {
     "package": "matchmaker",
+    "oncran": true
+  },
+  {
+    "package": "projections",
     "oncran": true
   }
 ]
