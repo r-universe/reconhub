@@ -1,18 +1,6 @@
 [
   {
-    "package": "aweek",
-    "oncran": true
-  },
-  {
-    "package": "distcrete",
-    "oncran": true
-  },
-  {
-    "package": "earlyR",
-    "oncran": true
-  },
-  {
-    "package": "epicontacts",
+    "package": "incidence",
     "oncran": true
   },
   {
@@ -20,19 +8,31 @@
     "oncran": true
   },
   {
+    "package": "epicontacts",
+    "oncran": true
+  },
+  {
+    "package": "distcrete",
+    "oncran": true
+  },
+  {
     "package": "epitrix",
     "oncran": true
   },
   {
-    "package": "incidence",
-    "oncran": true
-  },
-  {
-    "package": "matchmaker",
+    "package": "earlyR",
     "oncran": true
   },
   {
     "package": "projections",
+    "oncran": true
+  },
+  {
+    "package": "aweek",
+    "oncran": true
+  },
+  {
+    "package": "matchmaker",
     "oncran": true
   }
 ]
