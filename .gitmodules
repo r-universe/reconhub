@@ -14,6 +14,9 @@
 [submodule "epicontacts"]
 	path = epicontacts
 	url = https://github.com/reconhub/epicontacts
+[submodule "epiflows"]
+	path = epiflows
+	url = https://github.com/reconhub/epiflows
 [submodule "epitrix"]
 	path = epitrix
 	url = https://github.com/reconhub/epitrix
